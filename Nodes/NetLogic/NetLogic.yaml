@@ -94,3 +94,5 @@ Children:
     Value: false
 - Name: RuntimeNetLogic1
   Type: NetLogic
+- Name: RuntimeNetLogic2
+  Type: NetLogic
