@@ -92,3 +92,5 @@ Children:
     Type: BaseDataVariableType
     DataType: Boolean
     Value: false
+- Name: RuntimeNetLogic1
+  Type: NetLogic
